@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 data = {'Illiterate': 38.7, 'Dietary': 18.7, 'Living Alone':22.9,'Housing':19.2,
-         'Unmet Health Needs':26, 'Washing Oneself': 17.4, 'D.E.D': 11}
+         'Unmet Health Needs':26, 'Washing Oneself': 17.4, 'D.E.D': 11, 'Intense Pain': 58}
 
 problems = list(data.keys())
 percent = list(data.values())
